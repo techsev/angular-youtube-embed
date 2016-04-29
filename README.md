@@ -59,7 +59,7 @@ $ npm install --save angular-youtube-embed
 and use it in your code like this:
 
 ```javascript
-require('angular-youtube-mb');
+require('angular-youtube-embed');
 ```
 
 ## Is that it?
